@@ -42,7 +42,7 @@ A professional **command-line password strength analyzer** that evaluates passwo
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Thiranex-Project-1.git
+git clone https://github.com/Neecool/Thiranex-Project-1.git
 cd Thiranex-Project-1
 
 # Run the program
