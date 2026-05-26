@@ -1,7 +1,7 @@
 # Password Strength Analyzer
 
 ## Project: Thiranex-Project-1
-## Built by Nkul Suthar | Internship Project 2025
+## Built by Nkul Suthar | Internship Project 2026
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![Security](https://img.shields.io/badge/Security-Grade_A-green.svg)](https://github.com)
