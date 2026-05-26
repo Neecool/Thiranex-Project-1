@@ -1,41 +1,49 @@
-# Thiranex-Project-1
+# Password Strength Analyzer
 
-# 🔐 Password Strength Analyzer
-
+## Project: Thiranex-Project-1
 ## Built by Nkul Suthar | Internship Project 2025
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![Security](https://img.shields.io/badge/Security-Grade_A-green.svg)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com)
 
-## 📌 Project Overview
+## 📌 Project Information
 
-A professional **command-line password strength analyzer** that evaluates password security using multiple criteria including length, complexity, entropy, and pattern detection. Built with SHA-256 hashing for secure password history tracking.
+- **Repository Name:** Thiranex-Project-1
+- **Developer:** Nkul Suthar
+- **Type:** Internship Application Project
+- **Technology:** Python 3.6+
+- **Purpose:** Password Security Evaluation Tool
+
+## 🎯 Project Overview
+
+A professional **command-line password strength analyzer** that evaluates password security using:
+- Length analysis
+- Character complexity
+- Pattern detection
+- Entropy calculation
+- SHA-256 hashing for history
 
 ## ✨ Features
 
-- ✅ **Real-time password strength analysis**
-- ✅ **Multi-factor scoring** (Length, Complexity, Patterns, Entropy)
-- ✅ **SHA-256 hashing** for password history
-- ✅ **Password reuse prevention**
-- ✅ **Smart password suggestions**
-- ✅ **Entropy calculation** (bits of randomness)
-- ✅ **Pattern detection** (20+ common patterns)
-- ✅ **Color-coded terminal output**
-- ✅ **No external dependencies** - pure Python!
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Length Check | 8/12/16 character thresholds | ✅ |
+| Complexity | 4 character types | ✅ |
+| Pattern Detection | 20+ common patterns | ✅ |
+| Entropy | Bits of randomness | ✅ |
+| SHA-256 Hashing | Secure storage | ✅ |
+| Password History | Reuse prevention | ✅ |
+| Smart Suggestions | Stronger alternatives | ✅ |
 
 ## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.6 or higher
-- No additional packages needed!
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
-cd password-strength-analyzer
+git clone https://github.com/YOUR_USERNAME/Thiranex-Project-1.git
+cd Thiranex-Project-1
 
 # Run the program
 python password_analyzer.py
